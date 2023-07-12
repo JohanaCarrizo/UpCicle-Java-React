@@ -27,7 +27,7 @@ Plataforma que busca conecta fábricas y empresas locales que generan residuos c
     <td align="center">
       <a href="https://github.com/JohanaCarrizo"  >
           <img width="300" src="https://res.cloudinary.com/drc41imav/image/upload/v1685461113/colaborators/xmcsrplnbu1csgjhprx2.jpg" alt="JhoanaCarrizo" />
-          JhoanaCarrizo <br /> ( Back End )
+          JohanaCarrizo <br /> ( Back End )
      </a>
     </td>
     <td align="center">
